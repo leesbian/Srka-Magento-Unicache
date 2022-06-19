@@ -1,0 +1,6 @@
+{
+    "name": "srka/magento_unicache",
+    "description": "Magento universal cache Implementation",
+    "license": "tobedefined",
+    "type": "magento-module"
+}
